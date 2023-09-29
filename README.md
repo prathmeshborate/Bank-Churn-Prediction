@@ -4,7 +4,7 @@
 This project aims to predict whether a bank customer will exit or stay based on various factors. It utilizes machine learning techniques to analyze customer data and provide insights into customer churn.
 
 ## Preview Image
-[!Churn Prediction](GUI.PNG)
+![Churn Prediction](GUI.PNG)
 
 ---
 
